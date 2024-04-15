@@ -16,9 +16,9 @@ Matplotlib
 
 ## Install
 Create conda environment from YAML:
-´´´sh
+```sh
 conda create -f environment.yml
-´´´
+```
 
 ### How to use
 1) Clone this repo
