@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10976282.svg)](https://doi.org/10.5281/zenodo.10976282)
 # ifnl4-structure-paper
 
 This is the repo for the MD data in the paper ....
