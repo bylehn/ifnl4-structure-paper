@@ -7,8 +7,11 @@ The trajectories used for the analysis can be found here: https://zenodo.org/doi
 
 ## Packages
 Requires:
+
 MDAnalysis
+
 Numpy
+
 Matplotlib
 
 ## Install
