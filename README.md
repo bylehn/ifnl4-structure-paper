@@ -1,7 +1,9 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10976282.svg)](https://doi.org/10.5281/zenodo.10976282)
-# ifnl4-structure-paper
+# Structural studies of the IFNλ4 receptor complex using cryoEM enabled by protein engineering
 
-This is the repo for the MD data in the paper ....
+
+This is the repo for the MD data in the paper Structural studies of the IFNλ4 receptor complex using cryoEM enabled by protein engineering by Grubbe et al.![image](https://github.com/user-attachments/assets/40ee1202-3c75-4acc-8254-26ac37200caf)
+
 
 The trajectories used for the analysis can be found here: https://zenodo.org/doi/10.5281/zenodo.10975902
 
